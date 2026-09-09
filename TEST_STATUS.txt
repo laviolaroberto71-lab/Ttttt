@@ -1,0 +1,11 @@
+Music Player Test v2
+======================
+Audio intentionally omitted.
+
+Implemented test controls:
+- Play/Pause toggles simulated playback state.
+- Avanti cycles through 3 simulated tracks.
+- Replay resets progress.
+- Progress bar can be dragged and reports position.
+
+Next step: build/install the Android APK in an environment with Android SDK/Gradle available.
